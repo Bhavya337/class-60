@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-family: sans-serif;
+    font-size: 50px;
+    color: crimson;
+    border-color: dodgerblue;
+}
+
+.mythings {
+    height: 6px;
+    margin: auto;
+}
+
+#Apps {
+    background-color: aquamarine
+}
+
+
+
+#Games {
+    background-color: chartreuse
+}
+
+
+
+#Art {
+    background-color: fuchsia
+}
+
+
+#ChatBot {
+    background-color: darkviolet
+}
+
+img:hover {
+    transform: scale(1.2);
+}
+
+img {
+    border: 10px;
+    border-color: black;
+}
